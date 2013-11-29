@@ -79,10 +79,10 @@ h3 span {
   top: -14px;
   padding: 0 10px; }
 
-ul {
+ul.linksList {
   margin-top: 20%;
   margin-left: 26%; }
-  ul li {
+  ul.linksList li {
     width: 20%; }
 
 /**

@@ -5,20 +5,11 @@ date:   2013-11-30 08:09:14
 categories: jekyll update
 ---
 
-*About*. **About**. You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+##About
 
-Jekyll also offers powerful support for code snippets:
+Colour Coding is a small business devoted to design and development. We specialise in constructing robust, beautiful websites and applications.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+You can find links to our apps and websites from the <a href="../apps/">apps page</a>, and we'd love to work with you on your projects – <a href="../contact/">get in touch</a>.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Colour Coding is currently based in Sydney, Australia. It was founded in 2013 by <a href="http://palmer.im">Matthew Palmer</a>, who continues to design and develop all of Colour Coding's products.
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
