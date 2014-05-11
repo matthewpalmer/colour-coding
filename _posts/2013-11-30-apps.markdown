@@ -6,14 +6,100 @@ categories: jekyll update
 ---
 
 ## Apps
+<table class = 'appTable'>
+  <tbody>
+    <tr>
+      <td>
+        <a href="#second-stop">
+          <img class = 'icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px">
+          <div>Second Stop</div>
+        </a>
+      </td>
+      <td>
+        <a href="#combust">
+          <img class = 'icon' src="/images/combust-icon.png" alt="Combust social network — Colour Coding" width="80px">
+          <div>Combust</div>
+        </a>
+      </td>
+      <td>
+        <a href="#dictum">
+          <img class = 'icon' src="/images/dictum-icon.png" alt="Dictum for iOS — Colour Coding" width="80px">
+          <div>Dictum</div>
+        </a>
+      </td>
+      <td>
+        <a href="#montic">
+          <img class = 'icon' src="/images/montic-icon.png" alt="Montic for iOS — Colour Coding" width="80px">
+          <div>Montic</div>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div class = 'appContainer'>
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class='icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="second-stop"><h4><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8" title="Second Stop by Colour Coding for iOS">Second Stop</a></a>
+      </h4>
+      <p><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8">Second Stop</a> is a children's game available for iPhone and iPad. It features a global highscore leaderboard, and a simple, intuitive interface.</p>
+    </div>
+  </div>
 
-We've put a tonne of effort into making great apps and websites for you to use.
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class = 'icon' src="/images/combust-icon.png" alt="Combust social network — Colour Coding" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="combust">
+        <h4><a href="http://combustapp.com" title="Combust social network by Colour Coding">Combust</a>
+        </h4>
+      </a>
+      <p><a href="http://combustapp.com">Combust</a> is a social network where your posts disappear after six hours, and everything happens in real-time. An iPhone app is currently in development.</p>
+    </div>
+  </div>
 
-#### iPhone and iPad Apps
-- Second Stop
-- English Dictionary
-- Montic
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class = 'icon' src="/images/dictum-icon.png" alt="Dictum for iOS — Colour Coding" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="combust"><h4><a href="http://github.com/matthewpalmer/dictum" title="Dictum by Colour Coding for iOS">Dictum</a>
+      </h4></a>
+      <p><a href="https://github.com/matthewpalmer/dictum">Dictum</a> is an open source dictionary app that offers lightning fast search and offline access. Dictum is built to be the fastest dictionary app possible.</p>
+    </div>
+  </div>
 
-#### Websites
-- [Stockflags](http://stockflags.com)
-- [Dotfileshare](http://dotfileshare.herokuapp.com)
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class = 'icon' src="/images/montic-icon.png" alt="Montic for iOS" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="montic"><h4>Montic
+      </h4></a>
+      <p>Montic is a news aggregation app for iPhone. Developed for a client, Montic provides a native, blazing-fast way to access the day's best stories.</p>
+    </div>
+  </div>
+
+  <!--
+  We put a tonne of effort into making great apps and websites.
+
+
+
+  ![Second Stop — Colour Coding — iPhone and iPad app](/images/second-stop-iphone-5.png)
+
+  [Second Stop](https://itunes.apple.com/us/app/second-stop/id669856150?mt=8) is a children's game available for iPhone and iPad. It features a global highscore leaderboard, and a simple, intuitive interface.
+
+  #### [Dictum](https://github.com/matthewpalmer/dictum)
+
+  ![Dictum — Colour Coding — iPhone and iPad app](/images/dictum-iphone-5.png)
+
+  [Dictum](https://github.com/matthewpalmer/dictum) is an open source dictionary app that offers lightning fast search and full offline definition access.
+
+  #### Montic
+  Montic is a news aggregation app for iPhone. Developed for a client, Montic provides a native, blazing-fast way to access the day's best stories.
+
+  ## Websites
+  #### [Combust](http://combustapp.com)
+
+  ![Combust Social Network — Colour Coding — sneak peek](/images/second-stop-iphone-5.png)
+
+  [Combust](http://combustapp.com) is a social network where your posts disappear after six hours, and everything happens in real-time. An iPhone app is currently in development.
+
+  #### [Matthew Palmer](http://matthewpalmer.net)
+  [matthewpalmer.net](http://matthewpalmer.net) is my personal website. It hosts my blog and a collection of my latest designs and experiments. -->
+</div>

@@ -8,7 +8,6 @@ categories: jekyll update
 ## Contact
 We'd love to hear from you.
 
-If you want to work with us, send us an email at [hire@colourcoding.org](mailto://hire@colourcoding.org).
+For feedback, requests and reviews, get in touch on [Twitter](http://twitter.com/colour_coding) or [via email](mailto:feedback@colourcoding.org).
 
-For feedback, requests and reviews, get in touch on [Twitter](http://twitter.com/colour_coding) or [via email](mailto://feedback@colourcoding.org).
-
+We build custom websites starting from $100, and apps starting from $350. If you want to work with us, send us an email at [hire@colourcoding.org](mailto:hire@colourcoding.org).

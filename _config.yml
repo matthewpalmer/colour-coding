@@ -2,5 +2,3 @@ name: Colour Coding
 markdown: redcarpet
 pygments: true
 permalink: /:title
-gems:
-  - jekyll-sitemap

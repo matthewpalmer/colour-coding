@@ -9,7 +9,8 @@ categories: jekyll update
 
 Colour Coding is a small business devoted to design and development. We specialise in constructing robust, beautiful websites and applications.
 
-You can find links to our apps and websites from the <a href="../apps/">apps page</a>. We would also love to work with you on your website or app—<a href="../contact/">get in touch</a>.
+You can find links to the apps and websites we've made on the <a href="../apps/">apps page</a>. We can also be hired for design and development on your project—<a href="../contact/">contact us</a>.
 
 Colour Coding is currently based in Sydney, Australia. It was founded in 2014 by <a href="http://matthewpalmer.net">Matthew Palmer</a>, who continues to design and develop all of Colour Coding's products.
 
+<footer><small>ABN: 67 219 571 939</small></footer>
