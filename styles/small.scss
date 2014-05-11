@@ -44,7 +44,6 @@ Content Pages
 }
 
 article {
-
   line-height: 1.5;
 
 
@@ -53,3 +52,18 @@ article {
     font-weight: 400;
   }
 }
+
+table.appTable {
+  display: none;
+}
+
+.iconPreview {
+  text-align: center;
+}
+
+.appCopy {
+  h4 {
+   text-align: center;
+  }
+}
+

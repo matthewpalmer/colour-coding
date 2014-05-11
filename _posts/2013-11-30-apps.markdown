@@ -42,7 +42,7 @@ categories: jekyll update
     <div class="appCopy">
       <a class = "marker" name="second-stop"><h4><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8" title="Second Stop by Colour Coding for iOS">Second Stop</a></a>
       </h4>
-      <p><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8">Second Stop</a> is a children's game available for iPhone and iPad. It features a global highscore leaderboard, and a simple, intuitive interface.</p>
+      <p><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8">Second Stop</a> is a game available for iPhone and iPad that tests your sense of timing. It features a global highscore leaderboard, and a simple, intuitive interface.</p>
     </div>
   </div>
 

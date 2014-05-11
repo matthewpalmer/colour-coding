@@ -3,13 +3,13 @@ $gray: #9D9B94;
 $blue: #3E6FA6;
 $black: #3C403E;
 $lightGray: $gray + 30;
+
 body {
   font-family: "Avenir Next", "Avenir",  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   letter-spacing: 0.3px;
   background-color: $white;
   color: $black;
-  overflow-x: hidden;
 }
 
 #name {
@@ -170,35 +170,5 @@ a.marker {
   &:hover {
     background: none;
     color: inherit;
-  }
-}
-
-.appContainer {
-  margin-left: -30%;
-  width: 130%;
-}
-
-.appDetail {
-  margin-top: 8%;
-  margin-bottom: 8%;
-}
-
-.iconPreview {
-  width: 20%;
-  display: inline-block;
-}
-
-.appCopy {
-  display: inline-block;
-  width: 77%;
-
-  h4 {
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-  }
-
-  p {
-    margin-top: 0;
-    // padding: 0 0 0 0;
   }
 }

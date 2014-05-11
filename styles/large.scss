@@ -1,5 +1,10 @@
 @import "base.scss";
 
+body {
+  // Fixes Chrome's abnormal handling of scrollbars
+  overflow-x: hidden;
+}
+
 .container {
   width: 50%;
   margin-left: 25%;
@@ -62,5 +67,35 @@ article {
 table.appTable {
   td {
     width: 20%;
+  }
+}
+
+.appContainer {
+  margin-left: -30%;
+  width: 130%;
+}
+
+.appDetail {
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+.iconPreview {
+  width: 20%;
+  display: inline-block;
+}
+
+.appCopy {
+  display: inline-block;
+  width: 77%;
+
+  h4 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  p {
+    margin-top: 0;
+    // padding: 0 0 0 0;
   }
 }

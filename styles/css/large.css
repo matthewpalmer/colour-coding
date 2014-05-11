@@ -3,8 +3,7 @@ body {
   font-weight: 300;
   letter-spacing: 0.3px;
   background-color: #fafafa;
-  color: #3c403e;
-  overflow-x: hidden; }
+  color: #3c403e; }
 
 #name {
   font-size: 3.5em;
@@ -118,26 +117,8 @@ a.marker {
     background: none;
     color: inherit; }
 
-.appContainer {
-  margin-left: -30%;
-  width: 130%; }
-
-.appDetail {
-  margin-top: 8%;
-  margin-bottom: 8%; }
-
-.iconPreview {
-  width: 20%;
-  display: inline-block; }
-
-.appCopy {
-  display: inline-block;
-  width: 77%; }
-  .appCopy h4 {
-    margin: 0 0 0 0;
-    padding: 0 0 0 0; }
-  .appCopy p {
-    margin-top: 0; }
+body {
+  overflow-x: hidden; }
 
 .container {
   width: 50%;
@@ -183,3 +164,24 @@ article {
 
 table.appTable td {
   width: 20%; }
+
+.appContainer {
+  margin-left: -30%;
+  width: 130%; }
+
+.appDetail {
+  margin-top: 8%;
+  margin-bottom: 8%; }
+
+.iconPreview {
+  width: 20%;
+  display: inline-block; }
+
+.appCopy {
+  display: inline-block;
+  width: 77%; }
+  .appCopy h4 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0; }
+  .appCopy p {
+    margin-top: 0; }
