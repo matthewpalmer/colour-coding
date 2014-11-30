@@ -10,15 +10,15 @@ categories: jekyll update
   <tbody>
     <tr>
       <td>
-        <a href="#second-stop">
-          <img class = 'icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px">
-          <div>Second Stop</div>
-        </a>
-      </td>
-      <td>
         <a href="#combust">
           <img class = 'icon' src="/images/combust-icon.png" alt="Combust social network — Colour Coding" width="80px">
           <div>Combust</div>
+        </a>
+      </td>
+      <td>
+        <a href="#second-stop">
+          <img class = 'icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px">
+          <div>Second Stop</div>
         </a>
       </td>
       <td>
@@ -38,22 +38,22 @@ categories: jekyll update
 </table>
 <div class = 'appContainer'>
   <div class = 'appDetail'>
-    <div class="iconPreview"><img class='icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px"></div>
-    <div class="appCopy">
-      <a class = "marker" name="second-stop"><h4><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8" title="Second Stop by Colour Coding for iOS">Second Stop</a></a>
-      </h4>
-      <p><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8">Second Stop</a> is a game available for iPhone and iPad that tests your sense of timing. It features a global highscore leaderboard, and a simple, intuitive interface.</p>
-    </div>
-  </div>
-
-  <div class = 'appDetail'>
     <div class="iconPreview"><img class = 'icon' src="/images/combust-icon.png" alt="Combust social network — Colour Coding" width="80px"></div>
     <div class="appCopy">
       <a class = "marker" name="combust">
         <h4><a href="http://combustapp.com" title="Combust social network by Colour Coding">Combust</a>
         </h4>
       </a>
-      <p><a href="http://combustapp.com">Combust</a> is a social network where your posts disappear after six hours, and everything happens in real-time. An iPhone app is currently in development.</p>
+      <p><a href="http://combustapp.com">Combust</a> is a social network about authentic online sharing.</p>
+    </div>
+  </div>
+
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class='icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="second-stop"><h4><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8" title="Second Stop by Colour Coding for iOS">Second Stop</a></a>
+      </h4>
+      <p><a href="https://itunes.apple.com/us/app/second-stop/id669856150?mt=8">Second Stop</a> is a game available for iPhone and iPad that tests your sense of timing. It features a global highscore leaderboard, and a simple, intuitive interface.</p>
     </div>
   </div>
 
