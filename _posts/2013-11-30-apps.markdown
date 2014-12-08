@@ -16,6 +16,12 @@ categories: jekyll update
         </a>
       </td>
       <td>
+        <a href="#weekling">
+          <img class = 'icon' src="/images/weekling-icon.png" alt="Weekling, weekly budget — Colour Coding" width="80px">
+          <div>Weekling</div>
+        </a>
+      </td>
+      <td>
         <a href="#second-stop">
           <img class = 'icon' src="/images/second-stop-icon.png" alt="Second Stop for iOS — Colour Coding" width="80px">
           <div>Second Stop</div>
@@ -45,6 +51,15 @@ categories: jekyll update
         </h4>
       </a>
       <p><a href="http://combustapp.com">Combust</a> is a social network about authentic online sharing.</p>
+    </div>
+  </div>
+
+  <div class = 'appDetail'>
+    <div class="iconPreview"><img class='icon' src="/images/weekling-icon.png" alt="Weekling budgeting app for iOS — Colour Coding" width="80px"></div>
+    <div class="appCopy">
+      <a class = "marker" name="weekling"><h4><a href="https://itunes.apple.com/us/app/weekling-weekly-budget/id949338154?mt=8" title="Weekling weekly budgeting app">Weekling</a></a>
+      </h4>
+      <p><a href="https://itunes.apple.com/us/app/weekling-weekly-budget/id949338154?mt=8">Weekling</a> is a beautiful little weekling budgeting app, with a super-fast interface for entering new expenses.</p>
     </div>
   </div>
 
