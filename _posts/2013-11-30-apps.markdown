@@ -59,7 +59,7 @@ categories: jekyll update
     <div class="appCopy">
       <a class = "marker" name="weekling"><h4><a href="https://itunes.apple.com/us/app/weekling-weekly-budget/id949338154?mt=8" title="Weekling weekly budgeting app">Weekling</a></a>
       </h4>
-      <p><a href="https://itunes.apple.com/us/app/weekling-weekly-budget/id949338154?mt=8">Weekling</a> is a beautiful little weekling budgeting app, with a super-fast interface for entering new expenses.</p>
+      <p><a href="https://itunes.apple.com/us/app/weekling-weekly-budget/id949338154?mt=8">Weekling</a> is a beautiful little weekly budgeting app, with a super-fast interface for entering new expenses.</p>
     </div>
   </div>
 
